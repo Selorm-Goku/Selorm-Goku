@@ -5,8 +5,8 @@
 Here are some ideas to get you started:
 # 💫 About Me:
 -->
-🔭 I’m currently working on hands-on projects in cloud infrastructure, python development and basic cloud automation using AWS and OCI.<br>👯 I’m looking to collaborate and learn with beginner-friendly cloud, Python or networking projects solving real-world problem.<br>🤝 I’m looking for guidance in cloud automation, infrastructure design best practices and moving from labs to production-style projects.<br>🌱 I’m currently learning cloud computing, Python, Linux, network fundamentals and generative AI concepts<br>⚡ Fun fact, I end up breaking systems just to understand how to build them better 😄
-
+🔭 I’m currently working on hands-on projects in cloud infrastructure, python development and basic cloud automation using AWS and OCI.<br>👯 I’m looking to collaborate and learn with beginner-friendly cloud, Python or networking projects solving real-world problem.<br>🤝 I’m looking for guidance in cloud automation, infrastructure design best practices.<br>🌱 I’m currently learning about cloud computing, Python, Linux, network fundamentals and generative AI concepts
+<!--<br>⚡ Fun fact, I end up breaking systems just to understand how to build them better 😄-->
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/samuel-goku-9a63562a7/) 
 
