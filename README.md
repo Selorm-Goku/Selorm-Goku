@@ -22,12 +22,8 @@
 ## 📊 GitHub Stats:
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Selorm-Goku&" alt="Selorm-Goku" />
 </p>-->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Selorm-Goku&show_icons=true&theme=dark&hide_border=true" width="48%"/>
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=Selorm-Goku&theme=dark&hide_border=true" width="48%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selorm-Goku&layout=compact&theme=dark&hide_border=true" width="40%"/>
 </p>
 
 
