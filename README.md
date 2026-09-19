@@ -1,6 +1,6 @@
 # Hi 👋, I'm Samuel
 
-### Aspiring Cloud Engineer and Python developer 
+### Aspiring Cloud Engineer and Python/Backend developer 
 
 - 🔭 I'm currently working on **hands-on projects in cloud infrastructure, python development and basic cloud automation using AWS and OCI.**
 
